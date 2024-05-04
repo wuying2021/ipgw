@@ -9,7 +9,7 @@ import (
 
 	"github.com/neucn/ipgw/pkg/model"
 	"github.com/neucn/ipgw/pkg/utils"
-	"github.com/neucn/neugo"
+	"github.com/wuying2021/neugo"
 )
 
 type DashboardHandler struct {
